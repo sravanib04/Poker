@@ -1,9 +1,8 @@
 import java.util.Scanner;
 /**
- * Write a description of class Game here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Sravani Bhamidipaty
+ * @version 2021
  */
 public class Game
 {
