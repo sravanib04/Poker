@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 /**
- * Write a description of class Deck here.
  * 
  * @author Mr. Gumminger 
  * @version 2021
